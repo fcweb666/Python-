@@ -41,18 +41,19 @@
 #            3、本程序学生信息储存在students.txt文件中，科目信息储存在subjects.txt文件中。
 #
 #     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#            姜海主页：www.fcbook.cn    本程序Github项目地址：https://github.com/fcweb666/xscj.git
+#                        姜海主页：www.fcbook.cn
+#         本程序Github项目地址：https://github.com/fcweb666/xscj.git
 #                  特别鸣谢：马晟昊老师、海螺AI、CSDN、Github。
-#版权所有2024姜海版权所有
+#              Copyright © 2024 姜海（徐锋） All rights reserved.
 #                  本程序部分代码借鉴于网络，不存在侵权可能！
 #     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-进口操作系统（Operating System）
+import os
 
 # 文件名常量
-学生_档案=students.txt '
-SUBJECTS_FILE =subjects.txt '
+STUDENTS_FILE = 'students.txt'
+SUBJECTS_FILE = 'subjects.txt'
 
 # 基础科目（不可删除）
 BASE_SUBJECTS = ['Python程序设计', 'WEB设计与应用', 'C语言程序设计', '数据结构']
