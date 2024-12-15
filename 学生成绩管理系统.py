@@ -44,7 +44,7 @@
 #                        姜海主页：www.fcbook.cn
 #         本程序Github项目地址：https://github.com/fcweb666/xscj.git
 #                  特别鸣谢：马晟昊老师、海螺AI、CSDN、Github。
-#              Copyright © 2024 姜海（徐锋） All rights reserved.
+#              Copyright © 2024 姜海 All rights reserved.
 #                  本程序部分代码借鉴于网络，不存在侵权可能！
 #     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
